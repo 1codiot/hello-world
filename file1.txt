@@ -1,1 +1,10 @@
-New text file from akashgudadhe1/hello-world
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+   cout<<"Hello world";
+
+   return 0;
+}
